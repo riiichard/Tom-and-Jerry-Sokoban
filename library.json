@@ -1,0 +1,15 @@
+[
+  {
+    "coord":{"lon":-123.12,"lat":49.26},
+    "weather":[{"id":800,"main":"Clear", "description":"clear sky","icon":"01d"}],
+    "base":"stations",
+    "temp":281.8,"pressure":1027,"humidity":63,"temp_min":281.15,"temp_max":283.15,
+    "visibility":16093,"wind": {"speed":1.93,"deg":86.002},
+    "clouds":{"all":1},"dt":1542138780,
+    "sys":{"type":1,"id":2921,"message":0.0161,"country":"CA","sunrise":1542122474,"sunset":1542155520},
+    "id":6173331,
+    "name":"Vancouver",
+    "cod":200,
+    "rain":"Not raining."
+  }
+]
