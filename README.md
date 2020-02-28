@@ -13,7 +13,4 @@ manipulate roles’ movement without being confused(stuck) by invalid key events
 •	Wrote JOSN parsers to retrieve the project-introduction information from a website, and display 
 The strings on launcher.
 
-•	Displayed the game with JFrame, containing two windows, buttons and funny background music.
-
-UI windows
--------
+•	Displayed the game with JFrame, containing two windows, buttons and funny background music
